@@ -1,0 +1,17 @@
+D:\PROJECTS\RegexTester\bin\Debug\RegexTester.exe.config
+D:\PROJECTS\RegexTester\bin\Debug\RegexTester.exe
+D:\PROJECTS\RegexTester\bin\Debug\RegexTester.pdb
+D:\PROJECTS\RegexTester\obj\Debug\App.g.cs
+D:\PROJECTS\RegexTester\obj\Debug\RegexTester_MarkupCompile.cache
+D:\PROJECTS\RegexTester\obj\Debug\RegexTester_MarkupCompile.lref
+D:\PROJECTS\RegexTester\obj\Debug\RegexTester.g.resources
+D:\PROJECTS\RegexTester\obj\Debug\RegexTester.Properties.Resources.resources
+D:\PROJECTS\RegexTester\obj\Debug\RegexTester.csproj.GenerateResource.cache
+D:\PROJECTS\RegexTester\obj\Debug\RegexTester.csproj.CoreCompileInputs.cache
+D:\PROJECTS\RegexTester\obj\Debug\RegexTester.exe
+D:\PROJECTS\RegexTester\obj\Debug\RegexTester.pdb
+D:\PROJECTS\RegexTester\obj\Debug\MainWindow.g.cs
+D:\PROJECTS\RegexTester\obj\Debug\MainWindow.baml
+D:\PROJECTS\RegexTester\obj\Debug\RegexTester.csprojAssemblyReference.cache
+D:\PROJECTS\RegexTester\obj\Debug\MVC\View.g.cs
+D:\PROJECTS\RegexTester\obj\Debug\MVC\View.baml
